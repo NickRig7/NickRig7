@@ -2,7 +2,7 @@
 #### 😎 About Myself:
 - 👦 Hello there, I am BIKASH.
 - 🎓 I have done my graduation in Computer Applications with 7.89 CGPA.
-- 👨‍🎓 I am currently pursuing my Master's in Computer Applications.
+- 👨‍🎓 I am currently pursuing my Master's in Computer Applications with 8.93 CGPA.
 - 👀 I am more fascinated towards Data Science, Visualization, Data Mining process, techniques and Machine Learning Pipeline.
 - 🌱 Skilled in R programming with Data science, Predictive analysis and Exploratory Data Analysis.
 - 🤹‍♂️ I am also familiar with data processing technologies and analysis with the help of RStudio, Rapid Miner, Tableau. 
